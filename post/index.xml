@@ -5,12 +5,28 @@
     <link>https://bibzana.github.io/post/</link>
       <atom:link href="https://bibzana.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bibzana.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://bibzana.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://bibzana.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://bibzana.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;📊 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Неделя была насыщенной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Боролись с матанализом — ряды и пределы не дают скучать.&lt;/li&gt;
+&lt;li&gt;🔹 Разбирали методы численного интегрирования.&lt;/li&gt;
+&lt;li&gt;🔹 Узнал, что Markdown может быть полезен даже для математиков!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Мозг кипит, но зато становится интереснее! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
